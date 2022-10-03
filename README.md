@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NaragudeNitin
-- 👀 I’m interested in developemnet.
+- 👀 I’m interested in developmenet.
 - 🌱 I’m currently learning Advance Java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me naragudenitin@gmail.com
